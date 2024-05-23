@@ -1,5 +1,5 @@
 ---
-CS602 Final Project: A Shopping Cart Application
+A Shopping Cart Application
 ---
 ## Boilerplate Code
 > npm install express\
