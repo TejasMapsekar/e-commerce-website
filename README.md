@@ -66,9 +66,6 @@ app.listen(PORT, () => {
 
 ACCESS_TOKEN_SECRET => `require("crypto").randomBytes(64).toString("hex")`
 
-## Version Control
-
-https://github.com/hanwenzhang123/bu-cs602-final-project
 
 ## CS602 Sample Project
 
